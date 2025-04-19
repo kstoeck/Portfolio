@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"LINK_TO_TUTORIALS",
+  "name":"LINK_TO_TUTORIALS",
+  "parent":{
+    "name":"Timelines",
+    "path":"folders/Timelines.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
