@@ -3,3 +3,4 @@
 sight_check = true;
 default_index = sprite_index;
 check = true;
+

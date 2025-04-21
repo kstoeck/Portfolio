@@ -3,7 +3,7 @@
 event_inherited();
 if (dist > 0) {
 	direction = angle;
-	speed = 3;
+	speed = 12;
 	image_angle = angle;
 }
 else {

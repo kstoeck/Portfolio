@@ -17,7 +17,7 @@ if (instance_exists(obj_player)) {
 		alarm[0] = 15;
 	}
 	
-	if (dist > 4000) {
+	if (dist > 5120) {
 		px = target.x;
 		py = target.y;
 		spawn_distance = random_range(2500, 3000);
@@ -25,4 +25,5 @@ if (instance_exists(obj_player)) {
 		x = px + lengthdir_x(spawn_distance, spawn_angle);
 		y = py + lengthdir_y(spawn_distance, spawn_angle);
 	}
+	
 }
